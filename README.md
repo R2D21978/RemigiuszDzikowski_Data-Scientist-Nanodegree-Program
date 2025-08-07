@@ -29,5 +29,7 @@ Make sure the file PurchaseOrders.csv is downloaded from this repository
 Open the file analysis.ipynb in Jupyter Notebook
 Run the notebook cell by cell
 Note: The notebook code is set to load data from PurchaseOrders.csv. If needed, adjust the file path accordingly.
+The objective of the project is to build a model that enables the analysis of delayed deliveries and can also be used to predict 
+which factors may contribute to an increased risk of future delays.
 
 The result of the analysis of delayed deliveries is a review of the purchasing process, with an initial – and interestingly, unexpected – focus on the requester m89398 and the material group C530500. Contrary to common assumptions, the supplier is not always the one at fault 😉
